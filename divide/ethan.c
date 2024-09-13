@@ -1,6 +1,6 @@
 #include <stdio.h>
+#include "ethan.h"
 
-int ethan(void){
+void ethan(void){
   printf("hello ethan!");
-  return 0;
 }

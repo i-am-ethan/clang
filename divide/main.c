@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "ethan.c"
+#include "ethan.h"
 
 int main(void){
   printf("called ethan.c !!\n");
